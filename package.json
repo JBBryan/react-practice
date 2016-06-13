@@ -1,0 +1,16 @@
+{
+  "name": "React Practice",
+  "version": "0.0.1",
+  "description": "Foo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBBryan/react-practice.git"
+  },
+  "author": "JBBryan <jbraden.bryan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
